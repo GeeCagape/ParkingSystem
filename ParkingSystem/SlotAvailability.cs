@@ -1,0 +1,5 @@
+enum Availability
+{
+    Open, 
+    Occupied
+}

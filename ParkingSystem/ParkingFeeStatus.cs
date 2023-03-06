@@ -1,0 +1,5 @@
+enum feeStaus
+{
+    Paid,
+    Pending
+}
